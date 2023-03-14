@@ -1,27 +1,37 @@
+<!-- This is the README for our CHIF21 GitHub Organisation-->
+<div style="display: flex; justify-content: center">
+    <img src="https://htl-kaindorf.at/images/startpage/logo2x.png" width="250">
+</div>
+
 # Herzlich Willkommen auf der Github-Page der CHIF21
 
-# H1
-## H2
-### H3
-#### H4
+Hier stellen wir euch Beispiele aus <strong>POS</strong> und <strong>WMC</strong> zur Verfügung.
 
-This is some text\
+Des Weiteren könnt ihr den anderen Mitgliedern eure Lösung zur Verfügung stellen.
 
-`This is a command line`
+[@MrBrut](https://github.com/MrBrut-glitch) und [@grossschedl](https://github.com/grossschedl) sind verantwortlich für diese Seite und stehen euch gerne bei Fragen zur Verfügung.
 
-**This is bold**\
-*This is italic*\
-~This is cross out~
+Wenn der Bedarf nach weiteren Repositorys besteht, bitte bei [@Admins]() melden.
 
-```python
-import foobar
+## Wiki
 
-# returns 'words'
-foobar.pluralize('word')
+Im Wiki wird es zukünftig auch Anleitungen zu verschiedenen Themen geben.
 
-# returns 'geese'
-foobar.pluralize('goose')
+## Kontakt
+<div style="display: flex; justify-content: space-evenly;">
+<div id="adrian">
+<img src="https://avatars.githubusercontent.com/u/80398743?s=120&v=4" width="50">
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+MrBrut - Adrian Bakalarz  
+<a href="">bakadc21@htl-kaindorf.at</a>
+</div>
+
+<br>
+
+<div id="sebastian">
+<img src="https://avatars.githubusercontent.com/u/96838657?s=96&v=4" width="50">
+
+grossschedl - Sebastian Großschedl  
+<a href="">grosec21@htl-kaindorf.at</a>
+</div>
+</div>
