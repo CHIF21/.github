@@ -24,6 +24,7 @@ Im Wiki wird es zukünftig auch Anleitungen zu verschiedenen Themen geben.
 
 MrBrut - Adrian Bakalarz  
 <a href="">bakadc21@htl-kaindorf.at</a>
+<br>
 <a href="https://discordapp.com/users/719610022937493566">Discord</a>
 </div>
 
@@ -34,5 +35,7 @@ MrBrut - Adrian Bakalarz
 
 grossschedl - Sebastian Großschedl  
 <a href="">grosec21@htl-kaindorf.at</a>
+<br>
+<a href="https://discordapp.com/users/430640834870771714">Discord</a>
 </div>
 </div>
