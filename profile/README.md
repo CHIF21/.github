@@ -11,7 +11,7 @@ Des Weiteren könnt ihr den anderen Mitgliedern eure Lösung zur Verfügung stel
 
 [@MrBrut](https://github.com/MrBrut-glitch) und [@grossschedl](https://github.com/grossschedl) sind verantwortlich für diese Seite und stehen euch gerne bei Fragen zur Verfügung.
 
-Wenn der Bedarf nach weiteren Repositorys besteht, bitte bei [@Admins]() melden.
+Wenn der Bedarf nach weiteren Repositorys besteht, bitte bei [@Admins](https://youtu.be/dQw4w9WgXcQ) melden.
 
 ## Wiki
 
