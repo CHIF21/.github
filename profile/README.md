@@ -1,5 +1,5 @@
 <!-- This is the README for our CHIF21 GitHub Organisation-->
-<div style="display: flex; justify-content: center">
+<div style="width: 100%; sdisplay: flex; justify-content: center;">
     <img src="https://htl-kaindorf.at/images/startpage/logo2x.png" width="250">
 </div>
 
