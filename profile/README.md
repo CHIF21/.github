@@ -24,6 +24,7 @@ Im Wiki wird es zukünftig auch Anleitungen zu verschiedenen Themen geben.
 
 MrBrut - Adrian Bakalarz  
 <a href="">bakadc21@htl-kaindorf.at</a>
+<a href="https://discordapp.com/users/719610022937493566">Discord</a>
 </div>
 
 <br>
