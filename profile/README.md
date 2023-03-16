@@ -13,6 +13,10 @@ Des Weiteren könnt ihr den anderen Mitgliedern eure Lösung zur Verfügung stel
 
 Wenn der Bedarf nach weiteren Repositorys besteht, bitte bei [@Admins](https://youtu.be/dQw4w9WgXcQ) melden.
 
+## GitHub - Quickstart
+
+Wenn Ihr neu auf GitHub seid oder Probleme mit der Bedienung habt, könnt Ihr euch unsern [GitHub-Quickstart](https://github.com/CHIF21/Quickstart) durchlesen.
+
 ## Wiki
 
 Im Wiki wird es zukünftig auch Anleitungen zu verschiedenen Themen geben.
