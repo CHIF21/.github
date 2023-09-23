@@ -1,6 +1,6 @@
 <!-- This is the README for our CHIF21 GitHub Organisation-->
 <div style="width: 100%; display: flex; justify-content: center;">
-    <img src="https://htl-kaindorf.at/images/startpage/logo2x.png" width="250">
+    <img src="https://htl-kaindorf.at/htblakaindorf_logo.svg" width="250">
 </div>
 
 # Herzlich Willkommen auf der Github-Page der CHIF21
