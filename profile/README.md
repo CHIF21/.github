@@ -8,11 +8,11 @@
 
 Diese Seite dient dazu, Informationen und Ressourcen für jeden in unserer Klasse bereitzustellen. 
 
-Wenn du unbeabsichtigt auf diese Seite gestoßen bist und nicht zur CHIF21 gehörst, bitten wir dich höflich, sie zu verlassen, da sie ausschließlich für unserer Klasse bestimmt ist. Wenn du ein in der CHIF21 bist und noch keinen Zugriff hast, teile uns bitte deine Katalognummer, deinen Namen und deinen GitHub-Account-Namen mit, damit wir dich hinzufügen können.
+Wenn du unbeabsichtigt auf diese Seite gestoßen bist und nicht zur CHIF21 gehörst, bitten wir sie, diese Seite einfach zu ignorieren, da sie ausschließlich für unserer Klasse bestimmt ist. Wenn du in der CHIF21 bist und noch keinen Zugriff hast, teile uns bitte deine Katalognummer, deinen Namen und deinen GitHub-Account-Namen mit, damit wir dich hinzufügen können.
 
 ## So wirst du Mitglied unserer GitHub-Organisation:
 
-1. **Kontaktiere uns**: Sende eine E-Mail an [@MrBrut](mailto:bakadc21@htl-kaindorf.at) und [@grossschedl](grosec21@htl-kaindorf.at) mit deinen Informationen, oder kontaktiere uns über Discord.
+1. **Kontaktiere uns**: Sende eine E-Mail an [@MrBrut](mailto:bakadc21@htl-kaindorf.at) oder [@grossschedl](grosec21@htl-kaindorf.at) mit deinen Informationen, oder kontaktiere uns über Discord.
 
 2. **Einladung**: Sobald wir deine Anfrage erhalten haben, werden wir dir eine Einladung senden, die es dir ermöglicht, der Organisation beizutreten.
 
