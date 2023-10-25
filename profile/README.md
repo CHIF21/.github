@@ -6,29 +6,23 @@
 
 # Herzlich Willkommen auf der Github-Page der CHIF21
 
-Hier stellen wir euch Beispiele aus <strong>POS</strong> und <strong>WMC</strong> zur Verfügung.
+Diese Seite dient dazu, Informationen und Ressourcen für jeden in unserer Klasse bereitzustellen. 
 
-Des Weiteren könnt ihr den anderen Mitgliedern eure Lösung zur Verfügung stellen.
+Wenn du unbeabsichtigt auf diese Seite gestoßen bist und nicht zur CHIF21 gehörst, bitten wir dich höflich, sie zu verlassen, da sie ausschließlich für unserer Klasse bestimmt ist. Wenn du ein in der CHIF21 bist und noch keinen Zugriff hast, teile uns bitte deine Katalognummer, deinen Namen und deinen GitHub-Account-Namen mit, damit wir dich hinzufügen können.
 
-[@MrBrut](https://github.com/MrBrut-glitch) und [@grossschedl](https://github.com/grossschedl) sind verantwortlich für diese Seite und stehen euch gerne bei Fragen zur Verfügung.
+## So wirst du Mitglied unserer GitHub-Organisation:
 
-Wenn der Bedarf nach weiteren Repositorys besteht, bitte bei [@Admins](https://youtu.be/dQw4w9WgXcQ) melden.
+1. **Kontaktiere uns**: Sende eine E-Mail an [@MrBrut](mailto:bakadc21@htl-kaindorf.at) und [@grossschedl](grosec21@htl-kaindorf.at) mit deinen Informationen, oder kontaktiere uns über Discord.
 
-## GitHub - Quickstart
-
-Wenn Ihr neu auf GitHub seid oder Probleme mit der Bedienung habt, könnt Ihr euch unsern [GitHub-Quickstart](https://github.com/CHIF21/Quickstart) durchlesen.
-
-## Wiki
-
-Im Wiki wird es zukünftig auch Anleitungen zu verschiedenen Themen geben.
+2. **Einladung**: Sobald wir deine Anfrage erhalten haben, werden wir dir eine Einladung senden, die es dir ermöglicht, der Organisation beizutreten.
 
 ## Kontakt
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
 <div id="adrian">
 <img src="https://avatars.githubusercontent.com/u/80398743?s=120&v=4" width="50">
 
 MrBrut - Adrian Bakalarz  
-<a href="">bakadc21@htl-kaindorf.at</a>
+<a href="mailto:bakadc21@htl-kaindorf.at">bakadc21@htl-kaindorf.at</a>
 <br>
 <a href="https://discordapp.com/users/719610022937493566">Discord</a>
 </div>
@@ -39,7 +33,7 @@ MrBrut - Adrian Bakalarz
 <img src="https://avatars.githubusercontent.com/u/96838657?s=96&v=4" width="50">
 
 grossschedl - Sebastian Großschedl  
-<a href="">grosec21@htl-kaindorf.at</a>
+<a href="mailto:grosec21@htl-kaindorf.at">grosec21@htl-kaindorf.at</a>
 <br>
 <a href="https://discordapp.com/users/430640834870771714">Discord</a>
 </div>
